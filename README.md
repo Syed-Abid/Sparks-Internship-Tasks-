@@ -1,6 +1,8 @@
 # Sparks Internship Tasks
 
-![The Sparks Foundation Logo](https://media.licdn.com/dms/image/C560BAQFgHU3sTF4LfQ/company-logo_200_200/0/1519895156650?e=2147483647&v=beta&t=e6J4j8gWdNCJ-Dhu6xEC2S3EB_6lcim27ymu6-zRQkg)
+<div align="center">
+  <img src="https://media.licdn.com/dms/image/C560BAQFgHU3sTF4LfQ/company-logo_200_200/0/1519895156650?e=2147483647&v=beta&t=e6J4j8gWdNCJ-Dhu6xEC2S3EB_6lcim27ymu6-zRQkg" alt="The Sparks Foundation Logo Image">
+</div>
 
 Welcome to my "Sparks Internship Tasks" repository! 🚀
 
