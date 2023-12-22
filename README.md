@@ -18,7 +18,7 @@ This repository serves as a testament to my dedication during my virtual interns
 ## Dashboards
 
 <div align="center">
-  <img src="" alt="Sales Dashboard">
+  <img src="https://github.com/Syed-Abid/Sparks-Internship-Tasks-/blob/main/Task%201/Store%20Sales%20Dashboard.png" alt="Sales Dashboard">
 
 <div align="center">
   <img src="" alt="Terrorism Dashboard">
