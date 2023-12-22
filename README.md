@@ -15,6 +15,14 @@ This repository serves as a testament to my dedication during my virtual interns
 - 📝 **Task Descriptions**: Detailed task descriptions, objectives, and the SQL skills utilized are included within each task folder.
 - 🤝 **Contributing**: While this repository primarily showcases my internship tasks, I welcome discussions, feedback, and collaboration with fellow learners.
 
+## Dashboards
+
+<div align="center">
+  <img src="" alt="Sales Dashboard">
+
+<div align="center">
+  <img src="" alt="Terrorism Dashboard">
+
 ## My Dedication
 
 _Dedication paves the path to success._ 💪
